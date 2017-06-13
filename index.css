@@ -17,7 +17,12 @@ h1{
 	color: white;
 	text-align: center;
 }
+#stripe{
+	height: 30px;
+	background-color: #fff;
+	text-align: center;
+}
 
-#message{
-	color: #fff;
+.selected{
+	background-color: blue;
 }
